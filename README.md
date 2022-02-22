@@ -69,13 +69,13 @@ With all prerequisites met, you can install this plugin using your package manag
 
 ```sh
 # if you prefer npm
-npm install -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+npm install -D react-component-fresh-webpack-plugin react-refresh
 
 # if you prefer yarn
-yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+yarn add -D react-component-fresh-webpack-plugin react-refresh
 
 # if you prefer pnpm
-pnpm add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+pnpm add -D react-component-fresh-webpack-plugin react-refresh
 ```
 
 The `react-refresh` package (from the React team) is a required peer dependency of this plugin.
